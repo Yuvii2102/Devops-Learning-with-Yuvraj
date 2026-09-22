@@ -1,4 +1,4 @@
-# Git Commands
+# Git Commands 👋🏻
 
 These are the **most important Git commands used in daily development and DevOps workflows**.
 
