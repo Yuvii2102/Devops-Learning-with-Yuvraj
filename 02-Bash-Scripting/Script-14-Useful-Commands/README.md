@@ -1,4 +1,4 @@
-# 🐚 Bash — Useful Commands
+# 🐚 Bash — Useful Commandss
 
 ### 🔹 `grep` — Search Text
 
