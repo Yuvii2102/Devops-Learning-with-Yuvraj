@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 Linux Commands for DevOps
+# 🐧 Linux Commands that I learnt for DevOps
 
 ### 📚 A Practical Linux Command Reference
 
